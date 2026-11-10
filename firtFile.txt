@@ -1,5 +1,5 @@
-first file line 1
-first file line 2
+first file line 1 modify from clone
+first file line 2 modify from clone
 first file line 3 modify another two lines
 first file line 4 modify another two lines
 first file line 5
